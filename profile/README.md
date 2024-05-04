@@ -2,7 +2,7 @@
 
 🧠 Transforming Conversations, Empowering Minds 🌐
 
-![Neurobridge Tech Logo](https://res.cloudinary.com/neurobridge/image/fetch/w_200,h_150/https://neurobridge.tech/public/logos/nb-logo.png)
+![Neurobridge Tech Logo](https://neurobridge.tech/static/media/logo01.ed4c9e7183b7efbcadc1.png)
 
 At Neurobridge Tech, we're pioneering the next frontier of AI with our cutting-edge Conversational AI solutions and advanced RAG models. 
 Based in India, we're dedicated to enhancing human-machine interactions and pushing the boundaries of artificial intelligence.
