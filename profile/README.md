@@ -1,36 +1,111 @@
 # Neurobridge Tech
 
-🧠 Transforming Conversations, Empowering Minds 🌐
+Transforming conversations into intelligence at scale.
 
-![Neurobridge Tech Logo](https://neurobridge.tech/static/media/logo01.06f9d3b7a03e68eadc2f.webp)
+![Neurobridge Tech Logo](https://avatars.githubusercontent.com/u/145116032)
 
-At Neurobridge Tech, we're pioneering the next frontier of AI with our cutting-edge Conversational AI solutions and advanced RAG models. Based in India, we're dedicated to enhancing human-machine interactions and pushing the boundaries of artificial intelligence.
+Neurobridge Tech is an AI research and engineering company based in India and the
+official team behind **Chanakya AI**.
 
-## 🚀 Join the Conversation Revolution! 🚀
+We design and deploy production systems that turn messy real-world data into
+clear, actionable insight:
 
-Connect with us to explore the limitless possibilities of AI-driven conversations and unlock new realms of innovation.
+- High accuracy speech recognition for Indian languages  
+- Subjective exam evaluation and learning analytics  
+- RAG powered copilots and domain specific AI assistants  
+- Conversation intelligence for retail, coaching centers and call centers  
 
-### 🌟 Our Flagship Product: Chanakya 🌟
+---
 
-Introducing **Chanakya**, our revolutionary AI-powered chatbot designed specifically for the Indian market. Chanakya offers:
+## What we do
 
-- **Multilingual Support:** Engages users in multiple Indian languages, including Hinglish (Hindi in Roman script).
-- **Voice-First Interaction:** A voice-first feature that allows users to interact via speaking and listening, making it accessible for those who cannot type or read.
-- **Culturally Relevant Responses:** Tailored responses that consider cultural nuances and provide informative and relevant answers.
-- **Advanced Search Integration:** Leverages Google search to provide accurate and up-to-date information.
-- **Personalized Experiences:** Customizes interactions based on user preferences and interactions.
+### 1. Education and Assessment AI
 
-With Chanakya, we aim to bridge the gap between technology and people, making AI more accessible and impactful.
+Infrastructure for schools, coaching institutes and ed tech companies:
 
-🖥️ **Explore Chanakya:**
-- **Web App:** [aichanakya.in](https://aichanakya.in/)
-- **Google Play Store:** [Chanakya App](https://play.google.com/store/apps/details?id=tech.neurobridge.chanakya)
+- Automated subjective answer checking for CBSE and ICSE style questions  
+- Question paper generation and practice test engines  
+- Learning gap analysis, error pattern detection and skill tracking  
+- RAG based doubt solving and exam preparation assistants  
+- WhatsApp first workflows for students, teachers and parents  
 
+### 2. Speech and Audio Intelligence
 
-### 🔗 Get in Touch:
+Speech technology tuned for Indian environments and accents:
 
-- **Website:** [neurobridge.tech](https://neurobridge.tech)
-- **Email:** [contact@neurobridge.tech](mailto:contact@neurobridge.tech)
-- **Follow us on Instagram:** [neurobridge.tech](https://www.instagram.com/neurobridge.tech)
+- ASR pipelines that outperform Whisper small on Hindi recordings  
+- Fine tuned models for noisy classrooms, coaching centers and retail floors  
+- Call center and in store audio analytics at scale  
+- Real time and batch transcription workflows with monitoring and dashboards  
 
-Let's shape the future together. Start your journey with Neurobridge Tech today! 🌟
+### 3. GenAI, RAG and Custom Pipelines
+
+Applied GenAI for teams that need reliable systems, not one off demos:
+
+- Domain specific RAG systems across documents, video and images  
+- Multi agent pipelines for evaluation, routing and insight generation  
+- On prem, VPC and hybrid deployments  
+- Consulting and implementation from prototype to production  
+
+---
+
+## Flagship Product: Chanakya AI
+
+**Chanakya AI** is our flagship learning and assessment platform built around
+the realities of Indian education.
+
+### Key capabilities
+
+**Indian first experience**  
+Supports CBSE and ICSE Classes 6 to 12 (and expanding), with a focus on
+subjective, concept based questions rather than only MCQs.
+
+**Exam checking and feedback**
+
+- Scan or upload written answers and get AI evaluated scores  
+- Detailed feedback on misconceptions, missed steps and presentation  
+- Teacher style comments that students and parents can understand  
+
+**Practice, not just exams**
+
+- Chapter wise practice questions across core subjects  
+- Daily or weekly practice flows instead of one off tests  
+- Reports that show progress over time, not just marks  
+
+**Doubt solving and RAG assistants**
+
+- WhatsApp doubt bot for quick, curriculum aligned clarifications  
+- RAG backed explainers grounded in textbook and board content  
+- Step by step explanations, not just final answers  
+
+**Multilingual and India aware**
+
+- Handles English, Hindi and Hinglish (Hindi written in Roman script)  
+- Context aware responses that respect Indian classrooms, boards and exam styles  
+
+Explore Chanakya AI:
+
+- Visit our Website: [aichanakya.in](https://aichanakya.in/)  
+---
+
+## Work with us
+
+If you are:
+
+- A school, coaching institute or ed tech platform looking to automate
+  assessments or offer AI first learning  
+- A company that needs accurate speech recognition and analytics for Indian audio  
+- A team that wants a serious, production ready RAG or GenAI system  
+
+we would be happy to talk.
+
+---
+
+## Contact
+
+- Website: [neurobridge.tech](https://neurobridge.tech)  
+- Email: [contact@neurobridge.tech](mailto:contact@neurobridge.tech)  
+- Instagram: [neurobridge.tech](https://www.instagram.com/neurobridge.tech)
+
+Interested in partnering, piloting or collaborating on research?  
+Open an issue in this repo or reach out by email.
